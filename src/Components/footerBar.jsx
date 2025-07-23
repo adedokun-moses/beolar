@@ -1,26 +1,26 @@
 const Footer = () => {
   const topImages = [
-    "../src/assets/biola.jpg",
-    "../src/assets/biolarpen.jpeg",
-    "../src/assets/biolarpen1.jpeg",
-    "../src/assets/biolarpen2.jpeg",
-    "../src/assets/biolarpen3.jpeg",
+    "../src/biola.jpg",
+    "../src/biolarpen.jpeg",
+    "../src/biolarpen1.jpeg",
+    "../src/biolarpen2.jpeg",
+    "../src/biolarpen3.jpeg",
   ];
 
   const middleImages = [
-    "../src/assets/biolarpen4.jpeg",
-    "../src/assets/biolarpen5.jpeg",
-    "../src/assets/biolarr.jpeg",
-    "../src/assets/loveissweet.jpeg",
-    "../src/assets/sweetmelody.jpeg",
+    "../src/biolarpen4.jpeg",
+    "../src/biolarpen5.jpeg",
+    "../src/biolarr.jpeg",
+    "../src/loveissweet.jpeg",
+    "../src/sweetmelody.jpeg",
   ];
 
   const bottomImages = [
-    "../src/assets/strike.jpeg",
-    "../src/assets/unity.jpeg",
-    "../src/assets/biolarpen.jpeg",
-    "../src/assets/loveissweet.jpeg",
-    "../src/assets/biola.jpg",
+    "../src/strike.jpeg",
+    "../src/unity.jpeg",
+    "../src/biolarpen.jpeg",
+    "../src/loveissweet.jpeg",
+    "../src/biola.jpg",
   ];
 
   return (

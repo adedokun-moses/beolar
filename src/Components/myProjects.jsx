@@ -9,28 +9,28 @@ export default function PastProjectsSection() {
       medium: "Acrylic on canvas",
       dimension: "60 inches x 55 inches",
       year: "2025",
-      image: "../src/assets/sweetmelody.jpeg",
+      image: "../src/sweetmelody.jpeg",
     },
     {
       title: "ECHOES OF SILENCE",
       medium: "Acrylic on canvas",
       dimension: "48 inches x 36 inches",
       year: "2025",
-      image: "../src/assets/loveissweet.jpeg",
+      image: "../src/loveissweet.jpeg",
     },
     {
       title: "On Her Scale of Thought",
       medium: "Acrylic on canvas",
       dimension: " 4ft x 4ft",
       year: "2025",
-      image: "../src/assets/scale.jpeg",
+      image: "../src/scale.jpeg",
     },
     {
       title: "Strike a pose",
       medium: "Acrylic on canvas",
       dimension: " 4ft x 4ft",
       year: "2025",
-      image: "../src/assets/strike.jpeg",
+      image: "../src/strike.jpeg",
     },
 
     {
@@ -38,14 +38,14 @@ export default function PastProjectsSection() {
       medium: "Acrylic on canvas",
       dimension: " 4ft x 4ft",
       year: "2025",
-      image: "../src/assets/unity.jpeg",
+      image: "../src/unity.jpeg",
     },
     {
       title: "Unity in diversity",
       medium: "Acrylic on canvas",
       dimension: " 4ft x 4ft",
       year: "2025",
-      image: "../src/assets/unity.jpeg",
+      image: "../src/unity.jpeg",
     },
   ];
   useEffect(() => {

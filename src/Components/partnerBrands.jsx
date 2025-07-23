@@ -59,31 +59,7 @@ export default function PartnerBrandsSection() {
         </div>
       </div>
 
-      {/* Scrollable Brand Logos */}
-      {/* <div className="overflow-x-auto scrollbar-hide">
-        <div className="flex gap-6  justify-center">
-          {brands.map((brand, index) => (
-            <div
-              key={index}
-              className="flex-[1_1_30%] min-w-[300px] bg-white dark:bg-gray-800 p-4 rounded-xl border shadow-md"
-            >
-              <div className="flex justify-between items-center py-5">
-                <h2 className="text-2xl font-bold text-gray-900 dark:text-white">
-                  {brand.name}
-                </h2>
-                <span className="text-sm text-right text-gray-500 dark:text-gray-300">
-                  {brand.role}
-                </span>
-              </div>
-
-              <p className="text-sm text-gray-700 dark:text-gray-300">
-                {brand.review}
-              </p>
-            </div>
-          ))}
-        </div>
-      </div> */}
-
+  
       <div className="overflow-hidden whitespace-nowrap w-full">
         <div className="flex gap-6 animate-testimonial  w-max">
           {[...brands, ...brands].map((brand, index) => (

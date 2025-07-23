@@ -1,8 +1,6 @@
 import { useEffect, useState } from "react";
 import backgroundVideo from "../assets/abart.mp4";
-import art1 from "../assets/biola.jpg";
-import art2 from "../assets/biola.jpg";
-import art3 from "../assets/biola.jpg";
+
 
 const HeroVideo = () => {
   const [isDark, setIsDark] = useState(false);
