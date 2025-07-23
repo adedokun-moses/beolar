@@ -38,7 +38,7 @@ const HeroVideo = () => {
         <nav className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center text-white">
           <div className="flex items-center space-x-2">
             <img
-              src="../src/assets/biola.jpg"
+              src="../biola.jpg"
               alt="Logo"
               className="w-8 h-8 object-contain rounded-xl"
             />

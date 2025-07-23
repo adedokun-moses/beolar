@@ -1,4 +1,4 @@
-import artistImage from "../assets/biola.jpg"; 
+
 import backgroundVideo from "../assets/ab.mp4"
 
 const Biography = () => {
@@ -11,7 +11,7 @@ const Biography = () => {
         {/* Left: Artist Image */}
         <div className="w-full md:w-1/2">
           <img
-            src={artistImage}
+            src="../biola.jpg"
             alt="Artist"
             className="w-full h-full object-cover rounded-lg shadow-lg"
           />
