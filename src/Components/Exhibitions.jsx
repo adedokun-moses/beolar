@@ -25,7 +25,7 @@ const exhibitionsData = [
   },
   {
     type: "Group Exhibition",
-    name: "BECOMIN BY ",
+    name: "BECOMING BY ",
     gallery: "Thought Pyramid Gallery",
     location: "Abuja, Nigeria",
     year: 2021,

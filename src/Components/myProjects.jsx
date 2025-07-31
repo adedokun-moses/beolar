@@ -40,12 +40,34 @@ export default function PastProjectsSection() {
       year: "2025",
       image: "../unity.jpeg",
     },
-    {
-      title: "Unity in diversity",
+  
+       {
+      title: "Rythm and Blues",
       medium: "Acrylic on canvas",
-      dimension: " 4ft x 4ft",
+      dimension: " 5ft x 6ft",
       year: "2025",
-      image: "../unity.jpeg",
+      image: "../blues.jpeg",
+    },
+       {
+      title: "Bold",
+      medium: "Acrylic on canvas",
+      dimension: " 4ft x 5ft",
+      year: "2023",
+      image: "../bold.jpeg",
+    },
+       {
+      title: "Classic Man",
+      medium: "Acrylic on canvas",
+      dimension: " 4ft x 5ft",
+      year: "2024",
+      image: "../classic.jpeg",
+    },
+       {
+      title: "At Peace In Her Abode",
+      medium: "Acrylic on canvas",
+      dimension: " 5ft x 4ft",
+      year: "2024",
+      image: "../atpeace.jpeg",
     },
   ];
   useEffect(() => {
