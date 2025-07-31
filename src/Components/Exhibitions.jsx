@@ -21,7 +21,7 @@ const exhibitionsData = [
     name: "REIMAGINING ",
     gallery: "Tripplea Gallery",
     location: "Lagos, Nigeria",
-    year: 2021,
+    year: 2022,
   },
   {
     type: "Group Exhibition",
@@ -29,6 +29,13 @@ const exhibitionsData = [
     gallery: "Thought Pyramid Gallery",
     location: "Abuja, Nigeria",
     year: 2021,
+  },
+    {
+    type: "Group Exhibition",
+    name: "TRIBUTE EXHIBITION",
+    gallery: " Urbanist Art Gallery",
+    location: "Dubai",
+    year: 2023-2024,
   },
 ];
 
