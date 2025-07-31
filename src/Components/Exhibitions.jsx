@@ -35,7 +35,7 @@ const exhibitionsData = [
     name: "TRIBUTE EXHIBITION",
     gallery: " Urbanist Art Gallery",
     location: "Dubai",
-    year: 2023-2024,
+    year: 2024,
   },
 ];
 
@@ -95,5 +95,6 @@ export default function Exhibitions() {
         ))}
       </motion.div>
     </section>
+    
   );
 }

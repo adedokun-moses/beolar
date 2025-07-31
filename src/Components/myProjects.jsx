@@ -7,7 +7,7 @@ export default function PastProjectsSection() {
     {
       title: "SWEET MELODY",
       medium: "Acrylic on canvas",
-      dimension: "60 inches x 55 inches",
+      dimension: "5ft x 5ft",
       year: "2025",
       image: "../sweetmelody.jpeg",
     },
