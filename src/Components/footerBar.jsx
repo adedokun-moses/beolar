@@ -86,13 +86,13 @@ const Footer = () => {
         </h2>
 
         <p className="text-3xl md:text-2xl font-bold text-blue-400 underline underline-offset-4 hover:text-blue-300 transition duration-300">
-          abdulsalamabiola@example.com
+         <a href="mailto:abdulsalamabiolaridwan@gmail.com">abdulsalamabiolaridwan@gmail.com</a>
         </p>
 
         <div className="flex justify-center items-center gap-6 mt-4">
           {/* Instagram */}
           <a
-            href="https://instagram.com/yourhandle"
+            href="https://www.instagram.com/abiola_studio?igsh=MWx6amQ0a3RjM3ZheQ=="
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Instagram"
@@ -110,7 +110,7 @@ const Footer = () => {
 
           {/* Facebook */}
           <a
-            href="https://facebook.com/yourhandle"
+            href="https://www.facebook.com/share/14fuTJGRfP/?mibextid=wwXIfr"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Facebook"
@@ -128,7 +128,7 @@ const Footer = () => {
 
           {/* X (Twitter) */}
           <a
-            href="https://x.com/yourhandle"
+            href="https://www.facebook.com/share/16un8fFxB5/?mibextid=wwXIfr"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="X (Twitter)"
@@ -154,7 +154,7 @@ const Footer = () => {
         <span>Designed by Adedokun Moses Omoniyi</span>
         <div className="flex items-center gap-3 mt-2 md:mt-0 md:ml-3">
           <a
-            href="https://x.com/yourhandle" // replace with your actual X handle
+            href="https://x.com/adedokun_moses" // replace with your actual X handle
             target="_blank"
             rel="noopener noreferrer"
             aria-label="X (Twitter)"
@@ -169,7 +169,7 @@ const Footer = () => {
             </svg>
           </a>
           <a
-            href="www.linkedin.com/in/
+            href="https://linkedin.com/in/
 adedokun-moses"
             target="_blank"
             rel="noopener noreferrer"
