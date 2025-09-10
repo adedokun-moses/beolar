@@ -14,7 +14,7 @@ export default function PastProjectsSection() {
     {
       title: "ECHOES OF SILENCE",
       medium: "Acrylic on canvas",
-      dimension: "48 inches x 36 inches",
+      dimension: "4ft x 4ft",
       year: "2025",
       image: "../loveissweet.jpeg",
     },
@@ -40,47 +40,60 @@ export default function PastProjectsSection() {
       year: "2025",
       image: "../unity.jpeg",
     },
-  
-       {
+
+    {
       title: "Rythm and Blues",
       medium: "Acrylic on canvas",
       dimension: " 5ft x 6ft",
       year: "2025",
       image: "../blues.jpeg",
     },
-       {
+    {
       title: "Bold",
       medium: "Acrylic on canvas",
       dimension: " 4ft x 5ft",
       year: "2023",
       image: "../bold.jpeg",
     },
-       {
+    {
       title: "Classic Man",
       medium: "Acrylic on canvas",
       dimension: " 4ft x 5ft",
       year: "2024",
       image: "../classic.jpeg",
     },
-       {
+    {
       title: "At Peace In Her Abode",
       medium: "Acrylic on canvas",
       dimension: " 5ft x 4ft",
       year: "2024",
       image: "../atpeace.jpeg",
     },
+    {
+      title: "TIMING IS EVERYTHING, KEEP IT MOVING",
+      medium: "Acrylic on canvas ",
+      dimension: "5ft x 5ft ",
+      year: "2025",
+      image: "../timing.jpeg",
+    },
   ];
   useEffect(() => {
-     AOS.init({
-    duration: 1000,
-    once: false, 
-    mirror: true, 
-  });
+    AOS.init({
+      duration: 1000,
+      once: false,
+      mirror: true,
+    });
   }, []);
 
   return (
-    <section className="bg-white dark:bg-gray-900 py-16 px-4 sm:px-8 lg:px-16"  id="projects">
-      <h2 className="text-3xl sm:text-4xl font-bold text-center mb-12 text-gray-800 dark:text-white"  data-aos="fade-up">
+    <section
+      className="bg-white dark:bg-gray-900 py-16 px-4 sm:px-8 lg:px-16"
+      id="projects"
+    >
+      <h2
+        className="text-3xl sm:text-4xl font-bold text-center mb-12 text-gray-800 dark:text-white"
+        data-aos="fade-up"
+      >
         Projects
       </h2>
 
