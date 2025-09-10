@@ -7,7 +7,7 @@ const Biography = () => {
       <h1 className="text-center py-5 text-3xl md:text-4xl font-bold mb-4">
         Contemporary Artist in Nigeria{" "}
       </h1>
-      <div className="max-w-6xl mx-auto px-4 flex flex-col md:flex-row items-center gap-10">
+      <div className="max-w-6xl mx-auto px-10 py-10 flex flex-col md:flex-row items-center gap-10">
         {/* Left: Artist Image */}
         <div className="w-full md:w-1/2">
           <img
