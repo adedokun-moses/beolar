@@ -12,7 +12,7 @@ export default function PastProjectsSection() {
       image: "../sweetmelody.jpeg",
     },
     {
-      title: "ECHOES OF SILENCE",
+      title: "LOVE IS SWEET",
       medium: "Acrylic on canvas",
       dimension: "4ft x 4ft",
       year: "2025",
